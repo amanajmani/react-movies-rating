@@ -1,4 +1,4 @@
-## A Movie Rating WebApp
+## A movie rating web-app (React)
 
 In this project I have utilized the concept of 
 
